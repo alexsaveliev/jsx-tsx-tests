@@ -9,7 +9,8 @@
     },
     "files": [
         "src/a.tsx",
-        "src/b.tsx"
+        "src/b.tsx",
+        "src/c.ts"
     ],
     "exclude": [
         "node_modules"

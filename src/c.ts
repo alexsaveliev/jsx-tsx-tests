@@ -9,4 +9,4 @@ export default class c {
 a.a();
 
 const x = new c();
-console.log(c.foo());
+console.log(x.foo());
