@@ -7,3 +7,6 @@ export default class b {
 }
 
 a.a();
+
+const x = new b();
+console.log(x.foo());
