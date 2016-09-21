@@ -1,0 +1,17 @@
+{
+
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "build"
+    },
+    "files": [
+        "src/a.tsx",
+        "src/b.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
